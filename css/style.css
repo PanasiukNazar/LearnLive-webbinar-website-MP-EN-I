@@ -2873,6 +2873,7 @@ img.testimonial-thumb {
 @media (max-width: 575px) {
     .ts-team-wrapper .ts-team-content {
         text-align: center;
+        top: 87%;
     }
 }
 
